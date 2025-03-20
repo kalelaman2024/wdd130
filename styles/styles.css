@@ -5,8 +5,9 @@ nav a {
     text-decoration: none;
     margin: 0 15px;
     font-size: 1.1rem;
+}
 
-/* Main Section Styling */
+
 main {
     width: 80%;
     max-width: 1000px;
