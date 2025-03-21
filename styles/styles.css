@@ -35,16 +35,20 @@ p {
     color: #555;
 }
 
+aside {
+    text-align: center;
+}
 
 aside h2 {
     font-size: 2rem;
     color: #cc6600;
     margin-bottom: 1rem;
+    
 }
 
 aside img {
     width: 100%;
-    max-width: 600px;
+    max-width: 400px;
     margin-top: 1rem;
     padding: 10px;
     border: 5px solid #cc6600;
@@ -58,4 +62,5 @@ footer {
     text-align: center;
     padding: 1rem 0;
     position: relative;
+    image-orientation: center ;
 }
